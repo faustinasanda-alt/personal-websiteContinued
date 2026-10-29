@@ -1,16 +1,8 @@
-Welcome to my website
+Welcome to my personal website!
 
-Hello, my name is Piyush Warang, and I love to code and am also learning to code so I can make a website.
+This site is made from HTMl, and CSS
 
-This is my personal website, not proper, but still improving
+This is a remix of Piyush warang's original  website
 
-To get a copy of my website, use 
-gh repo clone piyushwarang1/Personal-website
-in the GitHub CLI in the terminal of your ide
-
-Want to give me suggestions or found an error?
-Create an issue in the issues section
-
-little help is taking from ai,ai is used a an teacher.
-
-Created by Piyush warang
+Original project: Piyush Warang's Personal Website
+Orginal Creator: Piyush warang
